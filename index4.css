@@ -1,0 +1,29 @@
+.boxes{
+    border: 5px solid black;
+
+}
+.box{
+    width: 5rem;
+    height: 5rem;
+}
+.box-one{
+    background-color: aqua;
+    position: relative;
+width:auto;
+height: 50vh;
+font-size: xx-large;
+}
+.box-two{
+background-color: gold;
+position: relative;
+width: auto;
+font-size: larger;
+
+}
+.box-three{
+background-color: tomato;
+position: relative;
+width: auto;
+font-size: large ;
+
+}
